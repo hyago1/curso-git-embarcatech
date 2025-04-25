@@ -1,0 +1,21 @@
+git init
+git config user.name "Hyago Philip"
+git config user.email "hyagophilip@gmail.com"
+
+* Arquivo com nome/matricula criado
+
+git add .
+git commit -m "Primero commit"
+
+* Repositorio criado curso-git-embarcatech
+
+git remote add origin https://github.com/hyago1/curso-git-embarcatech.git
+git branch -M main
+git push -u origin main
+
+
+* Arquivo com todos os comandos criado
+
+git add .
+git commit -m "Segundo commit"
+git push 
